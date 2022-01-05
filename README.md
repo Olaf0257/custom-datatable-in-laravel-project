@@ -1,4 +1,3 @@
-# custom-datatable-in-laravel-project
 Initializing project
 
 
